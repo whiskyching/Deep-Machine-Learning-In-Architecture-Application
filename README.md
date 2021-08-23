@@ -4,7 +4,7 @@
 
 
 ## [Goal] To Find Most Optimized Shape(s) For Free-Form Concrete Shell Using Novel Strategies
----
+
 ![image](https://user-images.githubusercontent.com/65818525/130493776-0defce7e-e3c7-402c-9171-bd2d394a867a.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130493819-9d520608-b861-48ad-abec-980290bc76ba.png)
@@ -18,13 +18,13 @@
 ![image](https://user-images.githubusercontent.com/65818525/130493944-c9faf08a-55f2-4540-a92b-1cc63ed6cf06.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130493980-fa84b886-561d-417a-ace6-3e9959241c98.png)
----
+
 ## Generative Deep Learning: Style Transfer for Shell Substructure
----
+
 ![image](https://user-images.githubusercontent.com/65818525/130494031-cc7fbaae-ee94-49e3-90e0-49ae24b8d2f9.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130494095-0f3d4f8b-5ed7-4cb1-bff8-b8ba831836b7.png)
----
+
 ## Generative Deep Learning: Brick Facade Patterning
 ![image](https://user-images.githubusercontent.com/65818525/130494210-b7441d7a-1530-4eef-8a08-1cd0a7f3c138.png)
 ---

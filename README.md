@@ -26,7 +26,6 @@
 ![image](https://user-images.githubusercontent.com/65818525/130494095-0f3d4f8b-5ed7-4cb1-bff8-b8ba831836b7.png)
 ---
 ## Generative Deep Learning: Brick Facade Patterning
----
 ![image](https://user-images.githubusercontent.com/65818525/130494210-b7441d7a-1530-4eef-8a08-1cd0a7f3c138.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130494339-01adcd1f-d34c-47ab-95c3-02a2cb63f7ee.png)

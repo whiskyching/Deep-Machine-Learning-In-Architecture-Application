@@ -2,10 +2,13 @@
 
 #### Full Content Please See the PDF Documentation
 
+
+##[Goal] To Find Most Optimized Shape(s) For Free-Form Concrete Shell Using Novel Strategies
+---
 ![image](https://user-images.githubusercontent.com/65818525/130493776-0defce7e-e3c7-402c-9171-bd2d394a867a.png)
 
 ![image](https://user-images.githubusercontent.com/65818525/130493819-9d520608-b861-48ad-abec-980290bc76ba.png)
-
+---
 ![image](https://user-images.githubusercontent.com/65818525/130493839-eaa16404-6ee9-45f5-b6fa-4e06ca59519c.png)
 
 ![image](https://user-images.githubusercontent.com/65818525/130493899-fc0b9a82-190e-4ea1-bf1c-87e27e2dc24e.png)

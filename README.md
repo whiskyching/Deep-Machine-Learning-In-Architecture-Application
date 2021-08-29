@@ -34,6 +34,7 @@ Explores the application potentials with single-objective optimization, multiple
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131266304-3b2ca97e-6ed3-4ac9-a639-a42dbc1f06e1.png)
 ---
+## Multi-Objective Optimization [MOO]
 ![image](https://user-images.githubusercontent.com/65818525/130493944-c9faf08a-55f2-4540-a92b-1cc63ed6cf06.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130493980-fa84b886-561d-417a-ace6-3e9959241c98.png)

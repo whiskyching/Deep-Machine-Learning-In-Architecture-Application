@@ -37,7 +37,32 @@ Explores the application potentials with single-objective optimization, multiple
 ## Multi-Objective Optimization [MOO]
 ![image](https://user-images.githubusercontent.com/65818525/130493944-c9faf08a-55f2-4540-a92b-1cc63ed6cf06.png)
 ---
+## Unsupervised Learning
+![image](https://user-images.githubusercontent.com/65818525/131266375-4c409480-510a-4ea5-a7fa-e717f4058923.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266378-8bb09d40-62ef-4567-8bd9-9b2331a986f4.png)
+---
 ![image](https://user-images.githubusercontent.com/65818525/130493980-fa84b886-561d-417a-ace6-3e9959241c98.png)
+## Supervised Learning
+![image](https://user-images.githubusercontent.com/65818525/131266391-fc0484b5-e0d4-4d4d-bec9-e0e2944fb44f.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266396-2596fd91-c978-4221-9f43-86b2e39d96e6.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266398-d2564049-6813-4e50-ba80-36ae1d471056.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266400-74185e78-bab4-40f7-9341-e8a72b5ce51e.png)
+---
+## Deep Learning
+![image](https://user-images.githubusercontent.com/65818525/131266406-0b5c26b6-8f2d-4df4-bbd9-1cee6f610b98.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266458-e3f81532-e264-4e2c-9d83-c91bb6211ffa.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266485-30e95b4e-07e3-4ecd-ba9c-3358d54ab9ab.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266490-254f8288-9325-45c8-83c3-66daecfb9729.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266496-bf850717-463b-4c7a-8444-5af9b5fdbe41.png)
+
 
 ## Generative Deep Learning: Style Transfer for Shell Substructure
 

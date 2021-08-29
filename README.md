@@ -25,6 +25,11 @@ Explores the application potentials with single-objective optimization, multiple
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130493899-fc0b9a82-190e-4ea1-bf1c-87e27e2dc24e.png)
 ---
+![image](https://user-images.githubusercontent.com/65818525/131266223-fd52dff1-98ca-4e02-87c4-0702306ffa6a.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131266230-ae6088cc-c8d8-4c23-a255-242835579e3b.png)
+---
+## Single-Objective Optimization [SOO]
 ![image](https://user-images.githubusercontent.com/65818525/130493927-18bc689c-01d2-4408-8925-c34aad476504.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130493944-c9faf08a-55f2-4540-a92b-1cc63ed6cf06.png)

@@ -1,7 +1,17 @@
 # Deep-Machine-Learning-In-Architecture-Application
-
+Explores the application potentials with single-objective optimization, multiple objective optimizations, supervised learning, unsupervised learning and deep learning in architectural fields. This study focuses on developing an optimization workflow for global structural form-finding and geometry morphologies.
 #### Full Content Please See the PDF Documentation
 
+## Software Tool: 
+- Rhino 3D
+- Grasshopper 3D
+- Python
+- Anaconda
+
+## Library:
+- Tensorflow
+- Pandas
+- Scikit-learn
 
 ## [Goal] To Find Most Optimized Shape(s) For Free-Form Concrete Shell Using Novel Strategies
 

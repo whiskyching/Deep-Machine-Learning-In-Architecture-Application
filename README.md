@@ -2,11 +2,23 @@
 Explores the application potentials with single-objective optimization, multiple objective optimizations, supervised learning, unsupervised learning and deep learning in architectural fields. This study focuses on developing an optimization workflow for global structural form-finding and geometry morphologies.
 #### Full Content Please See the PDF Documentation
 
-## Software Tool: 
+## Software Tool & Plugin: 
 - Rhino 3D
 - Grasshopper 3D
 - Python
 - Anaconda
+- MOpossum
+- Goat
+- Octopus
+- Galapagos
+
+## Algorithm
+- Single-Objective Optimization
+- Multi-Objective Optimization
+- Supervised Learning
+- Unsupervised Learning
+- Deep Learning
+- Generative Deep Learning
 
 ## Library:
 - Tensorflow

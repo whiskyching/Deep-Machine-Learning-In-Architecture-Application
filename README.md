@@ -25,6 +25,7 @@ Explores the application potentials with single-objective optimization, multiple
 - Pandas
 - Scikit-learn
 
+
 ## [Goal] To Find Most Optimized Shape(s) For Free-Form Concrete Shell Using Novel Strategies
 
 ![image](https://user-images.githubusercontent.com/65818525/130493776-0defce7e-e3c7-402c-9171-bd2d394a867a.png)
